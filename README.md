@@ -1,6 +1,6 @@
-<a href="https://github.com/proyato"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Yato+;From+Delhi%2C+India;Copy+Paster+Bot/Web+Dev!;Telegram%3A+%40Codeflix_Bots" alt="https://t.me/ProYato" /></a>
+<a href="https://github.com/SubaruXnatsuki"><img src="https://readme-typing-svg.herokuapp.com?font=Russo+One&size=30&duration=4000&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+my+self+Yato+;From+Delhi%2C+India;Copy+Paster+Bot/Web+Dev!;Telegram%3A+%40Codeflix_Bots" alt="https://t.me/ProYato" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Yato;I'm++Not+a+Developer+" alt="Typing SVG" /></a> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=60&duration=3500&pause=1200&center=true&vCenter=true&width=1080&height=100&color=f75c7e&lines=Hi!%2C+I'm+Subaru;I'm++Not+a+Developer+But+I'm Learning+" alt="Typing SVG" /></a> </p>
 
 ## **☕ About me**
 
@@ -19,7 +19,7 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 <!-- <br><br><br><br> -->
 
 <p align="center">
-  <a href="https://t.me/proyato"><img src="https://graph.org/file/31edefa519fdb5db27b30.jpg"></a>
+  <a href="https://t.me/SubaruXnatsuki"><img src="https://graph.org/file/31edefa519fdb5db27b30.jpg"></a>
     </p>
 <p align="center">
 
@@ -38,7 +38,7 @@ Hehe~ another cutie has been caught stalking my profile 😏.
 <h2>ɢᴇᴛ ɪɴ ᴛᴏᴜᴄʜ <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"/></h2>
 
 <p align="center">
-<a href="https://telegram.me/proyato"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
+<a href="https://telegram.me/SubaruXnatsuki"><img src="https://img.shields.io/badge/-Contact%20Me-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
 </p>
 <p align="center">
 <a href="https://telegram.me/codeflix_bots"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram" width="200" height="38.5"/></a>
@@ -51,16 +51,16 @@ Spotify
 -->
 
 <div align="center">
-  <a href="https://t.me/proyato" target="_blank">
+  <a href="https://t.me/SubaruXnatsuki" target="_blank">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d3yopoe7or2z26t574yywhk3gq&count=1&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
 
-<a href="https://github.com/codeflix-bots">
+<a href="https://github.com/irfanx1">
    <img src="https://github-widgetbox.vercel.app/api/profile?username=codeflix-bots&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox">
 </a>
 
-[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/proyato/)
+[<img src="https://github.com/phoenix-monarch/phoenix-monarch/blob/master/resources/hr.gif"/>](https://github.com/SubaruXnatsuki/)
 
 <div style="text-align: center;">
   <a href="">
